@@ -60,22 +60,20 @@
 		</div>
 	</form>
 	<div class="alert alert-info" role="alert">
-		<h4 class="alert-heading">Insrukcija:</h4>
+		<h4 class="alert-heading">Instrukcija:</h4>
 		<ul>
 			<li class="mb-1">Pasirinkite valiutos kodą</li>
-			<li class="mb-1">Pasirinkite periodo pradzios datą</li>
+			<li class="mb-1">Pasirinkite periodo pradžios datą</li>
 			<li class="mb-1">Pasirinkite periodo pabaigos datą</li>
 			<li class="mb-1">Paspauskite "Generuoti"</li>
 		</ul>
 		<hr>
 		<p class="mb-0">Jeigu pasirinkta tik pradžios data, duomenys bus
-			nuo pradzios datos iki naujausios galimos datos.</p>
+			nuo pradžios datos iki naujausios galimos datos.</p>
 		<p class="mb-0">Jeigu pasirinkta tik pabaigos data, duomenys bus
 			nuo seniausios galimos datos iki pasirinktos pabaigos datos.</p>
 		<p class="mb-0">Jeigu nebus pasirintos datos, bus atvaizduoti visi
 			galimi duomenys.</p>
-		<p class="mb-0">Jeigu ismes klaidos pranešimą, reiškia blogai
-			pasirinktos datos.</p>
 	</div>
 </body>
 </html>
