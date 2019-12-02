@@ -56,9 +56,10 @@
 	</form>
 
 	<div class="alert alert-secondary" role="alert">
-		Periodo pradžios santykis: ${pirmas} <br> Periodo pabaigos
-		santykis: ${paskutinis
-		}<br> Santykio pokytis nuo periodo
+
+		Periodo pradžios santykis: ${paskutinis} <br> 
+		Periodo pabaigos santykis: ${pirmas} 
+		<br> Santykio pokytis nuo periodo
 		pradžios iki pabaigos: ${skaicius }
 
 	</div>
